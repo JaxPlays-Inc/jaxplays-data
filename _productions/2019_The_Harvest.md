@@ -2,6 +2,8 @@
 layout: productions
 title: The Harvest
 year: 2019
+opening_date: 2019-11-08
+closing_date: 2019-11-24
 image: 2019_The_Harvest.webp
 image_credit: 
 image_alt:
@@ -13,15 +15,15 @@ details:
   Writer: Samuel D. Hunter - wiki
   Website: https://www.the5anddime.org/the-harvest
 showtimes: 
-  - 19-11-08 20:00:00
-  - 19-11-09 20:00:00
-  - 19-11-11 20:00:00
-  - 19-11-15 20:00:00
-  - 19-11-16 20:00:00
-  - 19-11-17 14:00:00
-  - 19-11-22 20:00:00
-  - 19-11-23 20:00:00
-  - 19-11-24 14:00:00
+  - 2019-11-08 20:00:00
+  - 2019-11-09 20:00:00
+  - 2019-11-11 20:00:00
+  - 2019-11-15 20:00:00
+  - 2019-11-16 20:00:00
+  - 2019-11-17 14:00:00
+  - 2019-11-22 20:00:00
+  - 2019-11-23 20:00:00
+  - 2019-11-24 14:00:00
 cast:
   Josh: Silas Langner
   Tom: Mitchell Wohl

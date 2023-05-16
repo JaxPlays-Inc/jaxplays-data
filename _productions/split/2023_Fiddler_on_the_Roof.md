@@ -1,6 +1,8 @@
 ---
 title: Fiddler on the Roof
 year: 2023
+opening_date: 2023-08-03
+closing_date: 2023-09-17
 layout: productions
 image: 2023_Fiddler_on_the_Roof.jpeg
 image_caption: Graphic of Fiddler on the Roof at the Alhambra

@@ -2,6 +2,8 @@
 layout: productions
 title: Radium Girls
 year: 2022
+opening_date: 2022-06-10
+closing_date: 2022-06-25
 image:
 image_credit: 
 image_alt:

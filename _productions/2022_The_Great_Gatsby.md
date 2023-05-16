@@ -2,6 +2,8 @@
 layout: productions
 title: The Great Gatsby
 year: 2022
+opening_date: 2022-04-22
+closing_date: 2022-05-01
 image_credit: 
 image_alt:
 image_caption:

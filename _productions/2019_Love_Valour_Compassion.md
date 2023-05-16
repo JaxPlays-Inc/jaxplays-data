@@ -2,6 +2,8 @@
 layout: productions
 title: Love! Valour! Compassion!
 year: 2019
+opening_date: 2019-10-18
+closing_date: 2019-10-20
 image:
 image_credit: 
 image_alt:
@@ -13,9 +15,9 @@ details:
   Writer: Terrence McNally - wiki
   Website: https://www.the5anddime.org/love-valour-compassion
 showtimes: 
-  - 19-10-18 20:00:00
-  - 19-10-19 20:00:00
-  - 19-10-20 14:00:00
+  - 2019-10-18 20:00:00
+  - 2019-10-19 20:00:00
+  - 2019-10-20 14:00:00
 cast:
   John Jeckyll/James Jeckyll: Mike Beaman
   Perry Sellars: Joshua Taylor

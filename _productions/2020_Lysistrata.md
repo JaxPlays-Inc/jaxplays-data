@@ -2,6 +2,8 @@
 layout: productions
 title: Lysistrata
 year: 2020
+opening_date: 2020-02-21
+closing_date: 2020-03-08
 image: 2020_Lysistrata.jpg
 playbill: 2020_Lysistrata.pdf
 image_credit: 

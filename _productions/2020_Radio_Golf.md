@@ -2,6 +2,8 @@
 layout: productions
 title: Radio Golf
 year: 2020
+opening_date: 2020-01-31
+closing_date: 2020-02-16
 image:
 image_credit:
 image_alt:

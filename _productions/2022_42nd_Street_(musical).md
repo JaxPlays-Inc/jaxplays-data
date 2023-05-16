@@ -2,6 +2,8 @@
 layout: productions
 title: 42nd Street (musical)
 year: 2022
+opening_date: 2022-05-12
+closing_date: 2022-06-12
 image: 2022_42nd_Street.jpg
 image_credit: 
 image_alt:

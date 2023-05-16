@@ -2,6 +2,8 @@
 layout: productions
 title: The Shawshank Redemption
 year: 2022
+opening_date: 2022-05-20
+closing_date: 2022-06-05
 image:
 image_credit: 
 image_alt:

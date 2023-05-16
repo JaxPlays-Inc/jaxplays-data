@@ -2,6 +2,8 @@
 layout: productions
 title: Rock of Ages
 year: 2022
+opening_date: 2022-03-24
+closing_date: 2022-05-01
 image: 2022_Rock_of_Ages_(musical).jpeg
 image_credit: 
 image_alt:

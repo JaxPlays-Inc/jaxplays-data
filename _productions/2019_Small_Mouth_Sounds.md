@@ -2,6 +2,8 @@
 layout: productions
 title: Small Mouth Sounds
 year: 2019
+opening_date: 2019-04-19
+closing_date: 2019-05-05
 image: 2019_Small_Mouth_Sounds.webp
 image_credit: 
 image_alt:
@@ -13,15 +15,15 @@ details:
   Writer: Bess Wohl - wiki
   Website: https://www.the5anddime.org/small-mouth-sounds
 showtimes: 
-  - 19-04-19 20:00:00
-  - 19-04-20 20:00:00
-  - 19-04-22 20:00:00
-  - 19-04-26 20:00:00
-  - 19-04-27 20:00:00
-  - 19-04-28 14:00:00
-  - 19-05-03 20:00:00
-  - 19-05-04 20:00:00
-  - 19-05-05 14:00:00
+  - 2019-04-19 20:00:00
+  - 2019-04-20 20:00:00
+  - 2019-04-22 20:00:00
+  - 2019-04-26 20:00:00
+  - 2019-04-27 20:00:00
+  - 2019-04-28 14:00:00
+  - 2019-05-03 20:00:00
+  - 2019-05-04 20:00:00
+  - 2019-05-05 14:00:00
 cast:
   Performers: 
     - Christopher Watson

@@ -2,6 +2,8 @@
 layout: productions
 title: Silence! The Musical
 year: 2019
+opening_date: 2019-09-20
+closing_date: 2019-10-05
 image: 2019_Silence_The_Musical.webp
 image_credit: 
 image_alt:
@@ -15,18 +17,18 @@ details:
   Book: Hunter Bell - wiki
   Website: https://www.the5anddime.org/silence-the-musical
 showtimes: 
-  - 19-09-20 20:00:00
-  - 19-09-21 20:00:00
-  - 19-09-23 20:00:00
-  - 19-09-26 20:00:00
-  - 19-09-27 20:00:00
-  - 19-09-28 20:00:00
-  - 19-09-28 23:00:00
-  - 19-10-02 20:00:00
-  - 19-10-03 20:00:00
-  - 19-10-04 20:00:00
-  - 19-10-05 20:00:00
-  - 19-10-05 23:00:00
+  - 2019-09-20 20:00:00
+  - 2019-09-21 20:00:00
+  - 2019-09-23 20:00:00
+  - 2019-09-26 20:00:00
+  - 2019-09-27 20:00:00
+  - 2019-09-28 20:00:00
+  - 2019-09-28 23:00:00
+  - 2019-10-02 20:00:00
+  - 2019-10-03 20:00:00
+  - 2019-10-04 20:00:00
+  - 2019-10-05 20:00:00
+  - 2019-10-05 23:00:00
 cast:
   Clarice Starling: Joanna Yeakel
   Dr. Hannibal Lecter: Thomas Nightingale

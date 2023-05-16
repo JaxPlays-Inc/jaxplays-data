@@ -2,6 +2,8 @@
 layout: productions
 title: Shadowlands
 year: 2020
+opening_date: 2020-01-10
+closing_date: 2020-01-26
 image:
 image_credit: 
 image_alt:

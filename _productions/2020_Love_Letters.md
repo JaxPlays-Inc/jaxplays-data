@@ -2,6 +2,8 @@
 layout: productions
 title: Love Letters
 year: 2020
+opening_date: 2020-01-09
+closing_date: 2020-02-08
 image:
 image_credit: 
 image_alt:

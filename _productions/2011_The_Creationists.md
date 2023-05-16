@@ -2,6 +2,8 @@
 layout: productions
 title: The Creationists
 year: 2011
+opening_date: 2011-02-18
+closing_date: 2011-02-26
 image:
 category:
 details:

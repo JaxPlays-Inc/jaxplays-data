@@ -2,6 +2,8 @@
 layout: productions
 title: Parade (musical)
 year: 2022
+opening_date: 2022-08-04
+closing_date: 2022-09-04
 image_credit: 
 image_alt:
 image_caption:

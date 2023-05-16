@@ -2,6 +2,8 @@
 layout: productions
 title: Photograph 51
 year: 2019
+opening_date: 2019-01-25
+closing_date: 2019-01-26
 image_credit: 
 image_alt:
 image_caption:
@@ -16,8 +18,8 @@ details:
   Series: "The Secret of Life: A Science Play Series"
   Website: http://www.actorscollective.com/photograph-51/
 showtimes: 
-  - 19-01-25 19:30:00
-  - 19-01-26 16:00:00
+  - 2019-01-25 19:30:00
+  - 2019-01-26 16:00:00
 cast:
   Rosalind Franklin: Karen Konzen
   Maurice Wilkins: Christopher Watson

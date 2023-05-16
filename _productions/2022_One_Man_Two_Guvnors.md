@@ -2,6 +2,8 @@
 layout: productions
 title: One Man, Two Guvnors
 year: 2022
+opening_date: 2022-08-12
+closing_date: 2022-08-27
 image:
 image_credit: 
 image_alt:

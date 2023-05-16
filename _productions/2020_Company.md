@@ -2,6 +2,8 @@
 layout: productions
 title: Company
 year: 2020
+opening_date: 2020-02-07
+closing_date: 2020-02-23
 image_credit: 
 image_alt:
 image_caption:

@@ -2,6 +2,8 @@
 layout: productions
 title: Sweat
 year: 2019
+opening_date: 2019-08-02
+closing_date: 2019-08-18
 image: 2019_Sweat.webp
 image_credit: 
 image_alt:
@@ -13,15 +15,15 @@ details:
   Writer: Lynn Nottage - wiki
   Website: https://www.the5anddime.org/sweat
 showtimes: 
-  - 19-08-02 20:00:00
-  - 19-08-03 20:00:00
-  - 19-08-05 20:00:00
-  - 19-08-09 20:00:00
-  - 19-08-10 20:00:00
-  - 19-08-11 14:00:00
-  - 19-08-16 20:00:00
-  - 19-08-17 20:00:00
-  - 19-08-18 14:00:00
+  - 2019-08-02 20:00:00
+  - 2019-08-03 20:00:00
+  - 2019-08-05 20:00:00
+  - 2019-08-09 20:00:00
+  - 2019-08-10 20:00:00
+  - 2019-08-11 14:00:00
+  - 2019-08-16 20:00:00
+  - 2019-08-17 20:00:00
+  - 2019-08-18 14:00:00
 cast:
   Performers: 
     - Antoinette Johnson

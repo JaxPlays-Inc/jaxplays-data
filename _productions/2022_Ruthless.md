@@ -2,6 +2,8 @@
 layout: productions
 title: Ruthless!
 year: 2022
+opening_date: 2022-04-22
+closing_date: 2022-05-15
 image: 2022_Ruthless.jpeg
 image_credit: 
 image_alt:

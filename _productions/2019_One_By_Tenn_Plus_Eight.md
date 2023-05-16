@@ -2,6 +2,8 @@
 layout: productions
 title: One by Tenn Plus Eight
 year: 2019
+opening_date: 2019-06-28
+closing_date: 2019-07-07
 image_credit:
 image_alt:
 image_caption:
@@ -14,12 +16,12 @@ details:
   Venue: ABET - All Beaches Experimental Theatre
   Writers: Adam Nathaniel Davis, Karen Konzen, Cameron J. Pfahler, Elaine Smith, Kelby Siddons, Nathan Sanders, Olivia Gowan, Tennessee Williams
 showtimes: 
-  - 19-06-28 20:00:00
-  - 19-06-29 20:00:00
-  - 19-06-30 14:00:00
-  - 19-07-05 20:00:00
-  - 19-07-06 20:00:00
-  - 19-07-07 14:00:00
+  - 2019-06-28 20:00:00
+  - 2019-06-29 20:00:00
+  - 2019-06-30 14:00:00
+  - 2019-07-05 20:00:00
+  - 2019-07-06 20:00:00
+  - 2019-07-07 14:00:00
 cast:
 Ten Minute Life: 
   Jason Collins 

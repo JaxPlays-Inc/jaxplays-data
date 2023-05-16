@@ -2,6 +2,8 @@
 layout: productions
 title: Ghost (musical)
 year: 2022
+opening_date: 2022-09-29
+closing_date: 2022-11-06
 image_credit: 
 image_alt:
 image_caption:

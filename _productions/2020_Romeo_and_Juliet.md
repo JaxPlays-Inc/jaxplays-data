@@ -2,6 +2,8 @@
 layout: productions
 title: Romeo & Juliet
 year: 2020
+opening_date: 2020-02-20
+closing_date: 2020-02-23
 image:
 image_credit: 
 image_alt:

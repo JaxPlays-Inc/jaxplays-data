@@ -2,6 +2,8 @@
 layout: productions
 title: The Whale
 year: 2015
+opening_date: 2015-11-13
+closing_date: 2015-11-22
 image:
 image_credit: 
 image_alt:
@@ -13,12 +15,12 @@ details:
   Writer: Samuel D. Hunter - wiki
   Website: https://www.the5anddime.org
 showtimes: 
-  - 15-11-13 20:00:00
-  - 15-11-14 20:00:00
-  - 15-11-15 14:00:00
-  - 15-11-20 20:00:00
-  - 15-11-21 20:00:00
-  - 15-11-22 14:00:00
+  - 2015-11-13 20:00:00
+  - 2015-11-14 20:00:00
+  - 2015-11-15 14:00:00
+  - 2015-11-20 20:00:00
+  - 2015-11-21 20:00:00
+  - 2015-11-22 14:00:00
 cast:
   Charlie: Bill Ratliff
   Liz: Alix Bond
