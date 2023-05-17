@@ -13,15 +13,16 @@ details:
   Theatre: Theatre Jacksonville
   Venue: Little Theatre
 cast:
-  Director: Ray Jensen
-  Set & Lighting Design: Andrew Way
-  Properties Chair: Elizabeth Turner
-  Assistant to the Director: Jim Ruffett
   Sidney Bruhl: Tom Nehl
   Myra Bruhl: Glenda Sweitzer
   Clifford Anderson: Richard Sykes
   Helga Ten Dorp: Mardie Kelly
   Porter Milgrim: Jack Masters
+crew:
+  Director: Ray Jensen
+  Set & Lighting Design: Andrew Way
+  Properties Chair: Elizabeth Turner
+  Assistant to the Director: Jim Ruffett
   Stage Manager: Mary Sasser
   Lighting Technician: Dave Stillson
   Sound Technician: Marti Carson

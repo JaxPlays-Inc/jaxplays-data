@@ -13,10 +13,6 @@ details:
   Theatre: Theatre Jacksonville
   Venue: Little Theatre
 cast:
-  Director: Ray Jensen
-  Set & Lighting Design: Andrew Way
-  Sound Design: Tom Young
-  Costume Designer: Valerie Hall
   Ambassador Raymond Wilkins: Joe Mullarkey
   Martha Wilkins: Janell McLeod
   Sam: Shawn Patrick O'donnell
@@ -27,6 +23,11 @@ cast:
   General Fitzhugh: Massie K. Owen
   Edward Snelling: Bill Dunford
   Colonel Num: Russ Kirk
+crew: 
+  Director: Ray Jensen
+  Set & Lighting Design: Andrew Way
+  Sound Design: Tom Young
+  Costume Designer: Valerie Hall
   Technical Director: Andrew Way
   Stage Manager: Jill McClintock
   Lighting Technician: Tom Young

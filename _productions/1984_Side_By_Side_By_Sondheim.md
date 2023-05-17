@@ -13,11 +13,6 @@ details:
   Theatre: Theatre Jacksonville
   Venue: Little Theatre
 cast:
-  Director: Ray Jensen
-  Assistant Director: James W. Ruffett
-  Set & Lighting Design: Andrew Way
-  Musical Director: Rosalind MacEnulty
-  Choreographer: Mary Anne Murray
   Ensemble:
     - Valerie Hall
     - Richard Sykes
@@ -26,6 +21,12 @@ cast:
     - Judy Wade
     - Carl Carlson
   Narrator: Gerri Turbow
+crew:
+  Director: Ray Jensen
+  Assistant Director: James W. Ruffett
+  Set & Lighting Design: Andrew Way
+  Musical Director: Rosalind MacEnulty
+  Choreographer: Mary Anne Murray
   Stage Manager: James W. Ruffett
   Lighting Technician:
     - Andrew Way
