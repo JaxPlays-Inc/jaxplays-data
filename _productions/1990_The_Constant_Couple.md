@@ -70,5 +70,6 @@ crew:
     - Jess Hughes
     - Karl Rogers
 orchestra:
-external_links:
+external_links: 
+  "Theatre Jacksonville Presents 'The Constant Couple'": /wiki/media/news/1990_The_Constant_Couple_First_Coast_Entertainer.jpeg
 ---
