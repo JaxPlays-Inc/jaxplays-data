@@ -4,10 +4,10 @@ title: One Man, Two Guvnors
 year: 2022
 opening_date: 2022-08-12
 closing_date: 2022-08-27
-image:
-image_credit: 
-image_alt:
-image_caption:
+image: 2022_One_Man_Two_Guvnors.webp
+image_credit: Amelia Community Theatre
+image_alt: 
+image_caption: Poster of 2022 production of One Man, Two Guvnors
 category: play
 details:
   Title: One Man, Two Guvnors - wiki
@@ -29,6 +29,16 @@ showtimes:
   - 2022-08-26 19:30:00
   - 2022-08-27 19:30:00
 cast:
+  Francis Henshall: Joseph Stearman
+  Stanley Stubbers: Rob Davis
+  Rachel Crabbe: Audrey Antee
+  Harry Dangle: Brian Crane
+  Charlie Clench: Ron Price
+  Lloyd Boateng: Will Chirinos
+  Pauline Clench: Olivia Ballard
+  Alan Dangle / Gareth: Peter Sawyer
+  Dolly: Susan Joline
+  Alfie: Joseph Wall
 crew:
 external_links:
   "One Man, Two Guvnors - Amelia Community Theatre": "https://www.ameliacommunitytheatre.org/Performances/One-Man%2C-Two-Guvnors"

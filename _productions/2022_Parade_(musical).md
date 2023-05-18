@@ -4,13 +4,15 @@ title: Parade (musical)
 year: 2022
 opening_date: 2022-08-04
 closing_date: 2022-09-04
-image_credit: 
+image: 2022_parade.jpeg
+image_credit: Limelight Theatre
 image_alt:
-image_caption:
+image_caption: Poster of 2022 production of Parade
 category: musical
 details:
   Title: Parade (musical) - wiki
   Theatre: Limelight Theatre
+  Venue: Matuza Main Stage
   Music: Jason Robert Brown - wiki
   Lyrics: Jason Robert Brown
   Book: Alfred Uhry - wiki
@@ -38,7 +40,33 @@ showtimes:
   - 2022-09-03 19:30:00
   - 2022-09-04 14:00:00
 cast:
+  Leo Frank: Cole Marshall
+  Lucille Frank: Emily Layt
+  Mary Phagan: Ella Escamilla
+  Frankie Epps: Chad Boyd
+  Iola Stover: EmmaCate Davis
+  Essie: Bianca Pontello
+  Monteen: Lacey Cataleta
+  Jim Conley: Jalen Hardy
+  Hugh Dorsey: Jonathan O'Leary
+  Tom Watson/Young Soldier: Ben LaBonne
+  Britt Craig: Ilana Marshall
+  Governor Slaton: Burt Kierstead
+  Newt Lee: Patric Robinson
+  Luther Rosser/Ivey/Peavy: Brad Cooper
+  Judge Roan/Old Soldier: Andy Nance
+  Mrs. Phagan: Katy Polk
+  Sally Slaton: Danielle Dobies
+  Minnie McKnight: Zoe Pruitt
+  Ensemble: 
+   - Chloe O'Leary
+   - Theresa Pazanowski
+   - Catie Casey
+   - Fiona Furze
+   - Erica Furze
 crew:
+  Director: Bradley Akers
+  Music Director: Anthony Felton
 external_links:
 ---
 
