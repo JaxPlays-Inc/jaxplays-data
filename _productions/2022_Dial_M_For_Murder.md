@@ -2,8 +2,8 @@
 layout: productions
 title: Dial M For Murder
 year: 2022
-opening_night: 2022-06-23
-closing_night: 2022-07-17
+opening_date: 2022-06-23
+closing_date: 2022-07-17
 image_credit: 
 image_alt:
 image_caption:
