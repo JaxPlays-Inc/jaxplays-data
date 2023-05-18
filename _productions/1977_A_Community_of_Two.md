@@ -11,7 +11,7 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Main Stage
+  Venue: Little Theatre
 cast:
   Alix Carpenter: Sabina Meyer
   Robert Carpenter: Joe Mullarkey

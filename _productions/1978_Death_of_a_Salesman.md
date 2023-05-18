@@ -11,7 +11,7 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Main Stage
+  Venue: Little Theatre
 cast:
   Willy Loman: Norman Howard
   Linda: Marion Conner
