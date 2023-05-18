@@ -4,7 +4,7 @@ title: Parade (musical)
 year: 2022
 opening_date: 2022-08-04
 closing_date: 2022-09-04
-image: 2022_parade.jpeg
+image: 2022_Parade.jpeg
 image_credit: Limelight Theatre
 image_alt:
 image_caption: Poster of 2022 production of Parade
