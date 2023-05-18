@@ -67,6 +67,17 @@ cast:
 crew:
   Director: Bradley Akers
   Music Director: Anthony Felton
+  Stage Manager: Jillianne Tamillo
+  Technical Director: Ryan Walker
+  Dramaturg: Maddie Scotti
+  Scenic Designers: 
+    - Bradley Akers
+    - Dom Grasso
+  Lighting Designer: Bradley Akers
+  Costume Designer: Stephanie Riner
+  Assistant Costume Designer: Kol Dreibrodt
+  Properties: Taylor Anderson
+  Scenic Charge Artist: Nancy Grasso
 external_links:
 ---
 
