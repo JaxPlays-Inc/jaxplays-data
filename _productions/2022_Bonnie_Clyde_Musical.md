@@ -4,10 +4,10 @@ title: Bonnie & Clyde (musical)
 year: 2022
 opening_date: 2022-03-18
 closing_date: 2022-04-03
-image:
-image_credit: 
+image: 2022_Bonnie_Clyde_Musical.jpeg
+image_credit: ABET
 image_alt:
-image_caption:
+image_caption: Poster of 2022 production of Bonnie & Clyde
 category: musical
 details:
   Title: Bonnie & Clyde (musical) - wiki
@@ -56,5 +56,6 @@ crew:
   Production Manager: Lee Hamby
 external_links:
   Bonnie & Clyde the musical - Eventbrite: https://www.eventbrite.com/e/bonnie-clyde-the-musical-tickets-168951437297
+  "ABET shoots straight for the heart with 'Bonnie and Clyde the Musical'": /wiki/media/news/2022_Bonnie_Clyde_Musical_Beaches_Leader.jpeg
 ---
 "America's most notorious lovers and bank robbers take the country by storm in this sexy and compelling adventure. At the height of the Great Depression, Bonnie Parker and Clyde Barrow went from two small-town nobodies in West Texas to America's most renowned folk heroes and Texas law enforcement's worst nightmares. Fearless, shameless and alluring, Bonnie & Clyde, is the electrifying story of love, adventure and crime that captured the attention of an entire country." — [Bonnie & Clyde the musical - Eventbrite](https://www.eventbrite.com/e/bonnie-clyde-the-musical-tickets-168951437297)
