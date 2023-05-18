@@ -8,9 +8,7 @@ category: musicals
 details: 
     Music: Bob Gaudio - wiki
     Lyrics: Bob Crewe - wiki
-    Book:
-     - Marshall Brickman
-     - Rick Elice
+    Book: Marshall Brickman, Rick Elice
     Premiere: 
     Theatre: 
     Basis: 
