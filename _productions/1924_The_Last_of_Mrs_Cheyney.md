@@ -11,7 +11,6 @@ playbill:
 category:
 details:
   Theatre: Theatre Jacksonville
-  Venue:
 cast:
   Lord Arthur Dilling: Charles Murchison
   George: Frank H. Elmore, Jr.

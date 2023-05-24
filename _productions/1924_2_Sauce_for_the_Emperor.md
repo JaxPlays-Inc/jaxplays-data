@@ -11,7 +11,6 @@ playbill:
 category:
 details:
   Theatre: Theatre Jacksonville
-  Venue:
 cast:
   Donor: Carl Bohenberger
   Io: Charles Cruikshank

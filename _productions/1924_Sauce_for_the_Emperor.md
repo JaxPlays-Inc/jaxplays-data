@@ -11,7 +11,6 @@ playbill:
 category:
 details:
   Theatre: Theatre Jacksonville
-  Venue:
 cast:
   Paula: Anne Campbell
   Donor: Carl Bohenberger

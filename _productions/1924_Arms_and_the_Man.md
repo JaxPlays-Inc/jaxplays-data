@@ -11,7 +11,6 @@ playbill:
 category:
 details:
   Theatre: Theatre Jacksonville
-  Venue:
 cast:
   Mouka: Dore' Beauchamp-Nobbs
   Captain Bluntschli: E.S. Beauchamp-Nobbs

@@ -11,7 +11,6 @@ playbill:
 category:
 details:
   Theatre: Theatre Jacksonville
-  Venue:
 cast:
   Cheridah Gormley: Birsa Shepard
   Clay: Francis Stringfellow
