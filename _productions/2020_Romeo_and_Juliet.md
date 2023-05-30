@@ -4,10 +4,10 @@ title: Romeo & Juliet
 year: 2020
 opening_date: 2020-02-20
 closing_date: 2020-02-23
-image:
-image_credit: 
-image_alt:
-image_caption:
+image: 2020_Romeo+Juliet.jpeg
+image_credit: Players by the Sea
+image_alt: Poster for 2020 production of Romeo + Juliet
+image_caption: Poster for 2020 production of Romeo + Juliet
 category: play
 details:
   Title: Romeo & Juliet
@@ -15,7 +15,6 @@ details:
   Writer: William Shakespeare - wiki
   Series: First Quarto - wiki
   Genre: Shakespearean tragedy - wiki
-  Website: https://www.playersbythesea.org/romeo-juliet
   Setting: Verona - wiki, 16th century
 showtimes: 
   - 2020-02-20 20:00:00
@@ -51,6 +50,5 @@ crew:
   Assistant Director: Ashley Jones
   Violence and Intimacy Designer: Kate Busselle
 external_links:
-  Romeo & Juliet | Players by the Sea: https://www.playersbythesea.org/romeo-juliet
 ---
 The timeless Shakespearean classic is presented by an all-female cast.
