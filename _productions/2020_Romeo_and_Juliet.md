@@ -12,6 +12,7 @@ category: play
 details:
   Title: Romeo & Juliet
   Theatre: Players by the Sea
+  Venue: John McManus Mainstage Theatre
   Writer: William Shakespeare - wiki
   Series: First Quarto - wiki
   Genre: Shakespearean tragedy - wiki
