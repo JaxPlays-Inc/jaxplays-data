@@ -1,7 +1,8 @@
 ---
 title: Kind Lady
 year: 1942
-opening_date: 1942-11
+month: 11
+opening_date: 1942-11-01
 closing_date: 
 layout: productions
 image:

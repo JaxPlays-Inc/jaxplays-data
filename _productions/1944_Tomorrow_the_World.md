@@ -1,7 +1,8 @@
 ---
 title: Tomorrow the World
 year: 1944
-opening_date: 1943-04
+month: 04
+opening_date: 1943-04-01
 closing_date:
 layout: productions
 image:

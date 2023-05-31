@@ -1,7 +1,8 @@
 ---
 title: The Male Animal
 year: 1943
-opening_date: 1943-11
+month: 11
+opening_date: 1943-11-01
 closing_date: 
 layout: productions
 image:

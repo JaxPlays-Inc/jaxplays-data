@@ -1,7 +1,8 @@
 ---
 title: Mr. and Mrs. North
 year: 1943
-opening_date: 1943-04
+month: 04
+opening_date: 1943-04-01
 closing_date: 
 layout: productions
 image:
