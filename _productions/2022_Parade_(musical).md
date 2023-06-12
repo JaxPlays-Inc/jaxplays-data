@@ -12,7 +12,7 @@ category: musical
 details:
   Title: Parade (musical) - wiki
   Theatre: Limelight Theatre
-  Venue: Matuza Main Stage
+  Venue: Matuza Mainstage
   Music: Jason Robert Brown - wiki
   Lyrics: Jason Robert Brown
   Book: Alfred Uhry - wiki

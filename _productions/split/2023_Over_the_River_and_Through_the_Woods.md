@@ -11,7 +11,7 @@ playbill:
 category: 
 details:
   Theatre: Limelight Theatre
-  Venue: Koger-Gamache Black Box Theatre
+  Venue: Koger-Gamache Studio Theatre
 showtimes:
   - 2023-04-06 19:30:00
   - 2023-04-07 19:30:00
