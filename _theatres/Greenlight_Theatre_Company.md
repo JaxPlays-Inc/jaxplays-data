@@ -16,6 +16,9 @@ details:
     Twitter: 
     Instagram: greenlighttheatreco_jax
     LinkedIn: 
+    YouTube: greenlighttheatrecompany5603
     Phone: 	985-502-2253
 external_links:
 ---
+
+{% include youtubePlayer.html id="Hm7L7q1L40Y" %}

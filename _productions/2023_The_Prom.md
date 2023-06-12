@@ -12,6 +12,9 @@ category:
 details:
   Theatre: Greenlight Theatre Company
   Venue: Grace Darling Studio Theatre
+  Music: Matthew Sklar - wiki
+  Lyrics: Chad Beguelin - wiki
+  Book: Bob Martin & Chad Beguelin
   Website: https://www.eventbrite.com/o/greenlight-theatre-company-50485732523
 showtimes:
   - 2023-06-09 19:00:00
@@ -21,22 +24,25 @@ showtimes:
   - 2023-06-17 19:00:00
   - 2023-06-18 13:00:00
 cast:
+  Emma Nolan: 
+    - Kennedy Kovacs 
+    - Catherine Tetzlaff
+  Dee Dee Allen:
+    - Brenda Schoenfeld 
+    - Jen Mercer
+  Alyssa Greene: 
+    - Ella Escamilla 
+    - Shauna Clark 
+  Barry Glickman: Brandon Hines
   Mrs. Greene: Chelsea Lucas
   Sheldon Saperstein: Nick Cooper
   Kaylee: Allison Williams
   Shelby: Abby Harrell
-  Kevin: Charlie Dicey
+  Kevin Shield: Charlie Dicey
   Principal Hawkins: Joe Mora
   Nick: Johnny Warren
-  Trent: Stevie Bush
-  Barry Glickman: Brandon Hines
-  Angie: Lauren Albert
-  DeeDee Allen (6/9, 6/11, 6/17): Brenda Schoenfeld 
-  Emma (6/9, 6/11, 6/17): Kennedy Kovacs 
-  Alyssa Greene (6/9, 6/11, 6/17): Ella Escamilla 
-  DeeDee Allen (6/10, 6/16 & 6/18): Jen Mercer 
-  Emma (6/10, 6/16 & 6/18): Catherine Tetzlaff
-  Alyssa Greene (6/10, 6/16 & 6/18): Shauna Clark 
+  Trent Oliver: Stevie Bush
+  Angie Dickinson: Lauren Albert
   Ensemble: 
     - Maggie Duncan
     - Selena Nejal
@@ -52,10 +58,25 @@ cast:
     - Abigal Doyle
     - Cole Wallace
 understudies:
-  Angie: Alexia McKendrick
+  Angie Dickinson: Alexia McKendrick
   Mrs. Greene: Lisa Fleming
 crew:
 orchestra:
 external_links:
   '"The Prom" musical begins next week':  https://www.news4jax.com/video/morning-show/2023/06/03/the-prom-musical-begins-next-week/
 ---
+This production has two casts with each cast performing three shows. 
+
+The first cast performs on June 9, 11, and 17, and includes the following cast members:
+- Emma Nolan: Kennedy Kovacs
+- Dee Dee Allen: Brenda Schoenfeld
+- Alyssa Greene: Ella Escamilla
+
+The second cast performs on June 10, 16, and 18 and includes the following cast members:
+- Emma Nolan: Catherine Tetzlaff
+- Dee Dee Allen: Jen Mercer
+- Alyssa Greene: Shauna Clark
+
+"The Prom" is an uplifting and entertaining Broadway musical that combines humor and heart. With a book by Bob Martin and Chad Beguelin, and music by Matthew Sklar and lyrics by Beguelin, the show tells the story of a high school student in Indiana who wants to take her girlfriend to the prom. When the school board cancels the prom rather than allow two girls to attend together, a group of fading Broadway actors hears about the situation and sees an opportunity to drum up some positive press for themselves. They descend upon the small town, with often hilarious and heartwarming results.
+
+{% include facebookPlayer.html id='158538000443906' %}
