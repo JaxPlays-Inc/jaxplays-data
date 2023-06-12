@@ -65,6 +65,8 @@ orchestra:
 external_links:
   '"The Prom" musical begins next week':  https://www.news4jax.com/video/morning-show/2023/06/03/the-prom-musical-begins-next-week/
 ---
+"The Prom" tells the story of a high school student in Indiana who wants to take her girlfriend to the prom. When the school board cancels the prom rather than allow two girls to attend together, a group of fading Broadway actors hears about the situation and sees an opportunity to drum up some positive press for themselves. They descend upon the small town, with often hilarious and heartwarming results.
+
 This production has two casts with each cast performing three shows. 
 
 The first cast performs on June 9, 11, and 17, and includes the following cast members:
@@ -77,6 +79,4 @@ The second cast performs on June 10, 16, and 18 and includes the following cast 
 - Dee Dee Allen: Jen Mercer
 - Alyssa Greene: Shauna Clark
 
-"The Prom" is an uplifting and entertaining Broadway musical that combines humor and heart. With a book by Bob Martin and Chad Beguelin, and music by Matthew Sklar and lyrics by Beguelin, the show tells the story of a high school student in Indiana who wants to take her girlfriend to the prom. When the school board cancels the prom rather than allow two girls to attend together, a group of fading Broadway actors hears about the situation and sees an opportunity to drum up some positive press for themselves. They descend upon the small town, with often hilarious and heartwarming results.
-
-{% include facebookPlayer.html id='158538000443906' %}
+{% include instagramPlayer.html id='CtWj1BhgZAM' %}
