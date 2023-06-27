@@ -35,6 +35,7 @@ cast:
   Mr. Kraler: Daniel Locke          
   Mr. Dussel: Michael Skaff         
 crew:
+  Director: Jason Collins
 orchestra:
 external_links:
 ---
