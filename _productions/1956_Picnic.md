@@ -2,7 +2,7 @@
 title: Picnic
 year: 1956
 opening_date: 1956-11-28
-closing_date: 1956-12-8
+closing_date: 1956-12-08
 layout: productions
 image:
 image_caption:

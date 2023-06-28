@@ -2,7 +2,7 @@
 title: The Willow and I
 year: 1947
 opening_date: 1947-11-28
-closing_date: 1947-12-5
+closing_date: 1947-12-05
 layout: productions
 image:
 image_caption:
