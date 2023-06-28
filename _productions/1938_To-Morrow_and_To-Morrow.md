@@ -1,0 +1,37 @@
+---
+title: To-Morrow and To-Morrow
+year: 1938
+opening_date: 1938-02-15
+closing_date: 1938-02-17
+layout: productions
+image:
+image_caption:
+image_credit:
+playbill: 
+category: 
+details:
+  Theatre: Theatre Jacksonville
+  Venue: Little Theatre
+cast:
+  Christian Redman: Larry Lovett
+  Ella: Susan McRae
+  Eve Redman: Edre Ferguson
+  Gail Redman: Stokes Perry
+  Jane: Grace Martin
+  Miss Blake: June Stoy
+  Miss Frazer: Mildred Perry
+  Music: Henry Cornely
+  Nicholas Hay: Frank Heintz
+  Samuel Gillespie: Wilbur Jobe
+  Walter Burke: Phil May
+crew:
+  Director: Huron L. Blyden
+  Lighting: Earl DeFlorin
+  Props: Maxine Swisher
+  Staging:
+    - Herbert Swisher
+    - Margaret Pumpelly
+    - Mary Courtney
+orchestra:
+external_links:
+---
