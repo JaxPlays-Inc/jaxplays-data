@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: A Funny Thing Happened on the Way to the Forum
+redirect_from:
+  - /wiki/A_Funny_Thing_Happened_on_the_Way_to_the_Forum_(2020)
 year: 2020
 opening_date: 2020-01-24
 closing_date: 2020-02-15

@@ -1,5 +1,7 @@
 ---
 title: Michael Lipp
+redirect_from:
+  - /wiki/Michael_Lipp
 layout: people
 image: Michael_Lipp.jpg
 image_credit: 
