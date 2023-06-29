@@ -119,7 +119,8 @@ external_links:
 ---
 \* This production was ended early due to the COVID-19 pandemic. The last performance was on March 15, 2020.
 
-https://www.youtube.com/watch?v=MGA5rPz3Uho
 "This show is filled with comedy and razzle dazzle numbers, and while we’ve seen several excellent productions in the past, the Alhambra’s was our favorite." — [HOW TO SUCCEED IN BUSINESS AT ALHAMBRA THEATRE AND DINING - EU Jacksonville Newspaper](https://eujacksonville.com/2020/02/26/how-to-succeed-in-business-at-alhambra-theatre-and-dining/)
 
 "The Alhambra is known for the quality of the musical theatre talent it attracts to Jacksonville, and the “How to Succeed” cast is among the best to grace the stage at the nation’s oldest continuously operating dinner theatre." — [Review: Alhambra show succeeds at skewering corporate world - The Ponte Vedra Recorder](https://pontevedrarecorder.com/stories/review-alhambra-show-succeeds-at-skewering-corporate-world,10583)
+
+{% include youtubePlayer.html id="MGA5rPz3Uho" %}

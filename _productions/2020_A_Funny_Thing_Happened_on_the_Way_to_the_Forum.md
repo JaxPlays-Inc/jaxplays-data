@@ -12,6 +12,7 @@ category: musical
 details:
   Title: A Funny Thing Happened on the Way to the Forum - wiki
   Theatre: Players by the Sea
+  Venue: John McManus Mainstage Theatre
   Music: Stephen Sondheim - wiki
   Lyrics: Stephen Sondheim
   Book: Burt Shevelove - wiki, Larry Gelbart - wiki
@@ -71,4 +72,4 @@ external_links:
 
 "Expertly directed by Michael Lipp," this production of Forum is "light, fast-paced, witty and irreverent." — [A Funny Thing Happened on the Way to the Forum - IwantaBuzz](https://iwantabuzz.com/arts/arts-in-the-know/a-funny-thing-happened-on-the-way-to-the-forum-3/)
 
-<youtube>https://www.youtube.com/watch?v=jU6fVoh428s</youtube>
+{% include youtubePlayer.html id="jU6fVoh428s" %}
