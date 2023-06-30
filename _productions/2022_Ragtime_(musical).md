@@ -12,6 +12,7 @@ category: musical
 details:
   Title: Ragtime (musical) - wiki
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
   Music: Stephen Flaherty - wiki
   Lyrics: Lynn Ahrens - wiki
   Book: Terrence McNally - wiki

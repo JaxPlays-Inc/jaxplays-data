@@ -9,6 +9,7 @@ image_caption:
 category: 
 details:
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
 cast:
  Gould: Michael Lipp
 crew:

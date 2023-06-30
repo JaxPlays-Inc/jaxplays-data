@@ -12,6 +12,7 @@ category: musical
 details:
   Title: Matilda the Musical
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
   Music: Tim Minchin - wiki
   Lyrics: Tim Minchin
   Book: Dennis Kelly - wiki

@@ -12,6 +12,7 @@ category: play
 details:
   Title: Love Quest
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
   Writer: Mary Maguire, Steven McGraw
   Genre: Romantic comedy
   Website: https://www.theatrejax.com/love-quest

@@ -10,6 +10,7 @@ image_caption:
 category: play
 details:
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
   Writer: Todd Kreidler
   Subject: Based on the 1967 film "Guess Who's Coming to Dinner" by William Rose
 showtimes: 

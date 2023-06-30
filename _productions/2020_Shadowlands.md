@@ -12,6 +12,7 @@ category: play
 details:
   Title: Shadowlands (play) - wiki
   Theatre: Theatre Jacksonville
+  Venue: Little Theatre
   Writer: William Nicholson - wiki
   Genre: Drama
   Subject: Biographical

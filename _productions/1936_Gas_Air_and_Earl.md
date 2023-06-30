@@ -1,5 +1,5 @@
 ---
-title: Gas, Air An Earl
+title: Gas, Air, and Earl
 year: 1936
 opening_date: 1936-03-03
 closing_date: 
