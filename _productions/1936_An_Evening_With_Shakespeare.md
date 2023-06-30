@@ -1,7 +1,7 @@
 ---
 title: An Evening With Shakespeare
 year: 2019
-opening_date: 2019-05-12
+opening_date: 1936-05-12
 closing_date: 
 layout: productions
 image:
