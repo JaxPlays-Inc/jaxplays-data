@@ -1,5 +1,5 @@
 ---
-title: Under the Yum-Yum Tree
+title: Under the Yum Yum Tree
 year: 1982
 opening_date: 1982-01-22
 closing_date: 1982-02-06

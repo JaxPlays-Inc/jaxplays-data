@@ -1,5 +1,5 @@
 ---
-title: Who's Afraid of Virginia Woolf
+title: Who's Afraid of Virginia Woolf?
 year: 1982
 opening_date: 1982-11-26
 closing_date: 1982-12-11

@@ -1,5 +1,5 @@
 ---
-title: Tea and Symphony
+title: Tea and Sympathy
 year: 1958
 opening_date: 1958-11-12
 closing_date: 1958-11-22

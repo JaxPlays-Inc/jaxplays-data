@@ -1,5 +1,5 @@
 ---
-title: Same Time Next Year
+title: Same Time, Next Year
 year: 1981
 opening_date: 1981-06-18
 closing_date: 1981-06-27

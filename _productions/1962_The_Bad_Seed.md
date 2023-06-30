@@ -1,5 +1,5 @@
 ---
-title: Bad Seed
+title: The Bad Seed
 year: 1962
 opening_date: 1962-01-12
 closing_date: 1962-01-20
