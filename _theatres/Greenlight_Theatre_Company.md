@@ -2,6 +2,7 @@
 title: Greenlight Theatre Company
 layout: theatres
 category: theatres
+active: true
 image: Greenlight_Theatre_Company.jpeg
 image_credit: Greenlight Theatre Company
 image_alt: Greenlight Theatre Company Logo

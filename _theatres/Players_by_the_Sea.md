@@ -1,6 +1,7 @@
 ---
 title: Players by the Sea
 layout: theatres
+active: true
 image: Players_by_the_Sea.jpeg
 image_credit:
 image_alt:

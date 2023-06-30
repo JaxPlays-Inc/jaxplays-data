@@ -1,6 +1,7 @@
 ---
 title: Stage Aurora
 layout: theatres
+active: true
 image: Stage_Aurora.jpeg
 image_credit:
 image_alt:

@@ -1,6 +1,7 @@
 ---
 title: Actors Collective
 layout: theatres
+active: false
 image: Actors_Collective.jpeg
 image_credit:
 image_alt:

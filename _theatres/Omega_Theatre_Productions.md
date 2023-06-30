@@ -1,6 +1,7 @@
 ---
 title: Omega Theatre Productions
 layout: theatres
+active: false
 image: 
 image_credit:
 image_alt:

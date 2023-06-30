@@ -1,6 +1,7 @@
 ---
 title: Jacksonville University
 layout: theatres
+active: true
 image: 
 image_credit:
 image_alt:

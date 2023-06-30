@@ -1,6 +1,7 @@
 ---
 title: Amelia Community Theatre
 layout: theatres
+active: true
 image: Amelia_Community_Theatre.png
 image_credit:
 image_alt:

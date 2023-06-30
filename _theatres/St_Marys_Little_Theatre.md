@@ -1,6 +1,7 @@
 ---
 title: St. Marys Little Theatre
 layout: theatres
+active: true
 image: St_Marys_Little_Theatre.webp
 image_credit:
 image_alt:

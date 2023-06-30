@@ -1,6 +1,7 @@
 ---
 title: The Alhambra Theatre & Dining
 layout: theatres
+active: true
 image: The_Alhambra_Theatre_&_Dining.png
 image_credit:
 image_alt:

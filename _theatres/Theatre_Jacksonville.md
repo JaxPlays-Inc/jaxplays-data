@@ -1,6 +1,7 @@
 ---
 title: Theatre Jacksonville
 layout: theatres
+active: true
 image: Theatre_Jacksonville.webp
 image_credit:
 image_alt:

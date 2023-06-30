@@ -6,6 +6,7 @@ redirect_from:
   - /theatres/the5anddime
   - /theatres/thefiveanddime
 layout: theatres
+active: true
 image: The_Five_And_Dime.jpeg
 image_credit:
 image_alt:
@@ -34,6 +35,6 @@ Despite the challenges, The 5 & Dime has continued to thrive, producing over 40 
 
 Through its commitment to supporting and showcasing talented artists, The 5 & Dime has made a lasting impact on the Jacksonville arts community, and its founders' bold question of "Why not us?" has been answered with resounding success.
 
-{% include youtubePlayer.html id="jZh-1X7dFvI" %}
+https://www.youtube.com/watch?v=jZh-1X7dFvI
 
 <!-- https://www.abouttheartists.com/production_companies/13527-the-5-and-dime-theatre-co-jacksonville-fl -->

@@ -1,6 +1,7 @@
 ---
 title: The Island Theater
 layout: theatres
+active: true
 image: The_Island_Theater.png
 image_credit:
 image_alt:

@@ -1,6 +1,7 @@
 ---
 title: Apex Theatre Studio
 layout: theatres
+active: true
 image: Apex_Theatre_Studio.png
 image_credit:
 image_alt:

@@ -1,13 +1,14 @@
 ---
 title: Phase Eight Theater Company
 layout: theatres
+active: false
 image: Phase_Eight_Theater_Company.jpeg
 image_credit:
 image_alt:
 image_caption:
 details:
     Founded: 2017
-    Disbanded: 2021
+    Closed: 2021
     Website: http://www.phaseeight.org
     Facebook: PhaseEightTheaterCompany
     Twitter: Phase8Theater

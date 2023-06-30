@@ -1,6 +1,7 @@
 ---
 title: Bold Theatre Group
 layout: theatres
+active: false
 image: 
 image_credit:
 image_alt:

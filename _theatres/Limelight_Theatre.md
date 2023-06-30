@@ -1,6 +1,7 @@
 ---
 title: Limelight Theatre
 layout: theatres
+active: true
 image: Limelight_Theatre.jpeg
 image_credit:
 image_alt:

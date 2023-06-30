@@ -1,6 +1,7 @@
 ---
 title: Orange Park Community Theatre
 layout: theatres
+active: true
 image: Orange_Park_Community_Theatre.jpeg
 image_credit:
 image_alt:
