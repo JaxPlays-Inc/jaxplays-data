@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mrs. Barme: Beth Blair
   Fred: Bob Stoy

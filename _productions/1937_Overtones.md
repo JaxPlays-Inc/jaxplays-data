@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Margaret: Elizabeth St. John
   Hetty: Lady Claire Grover

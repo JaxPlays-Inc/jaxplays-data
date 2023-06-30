@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Dr. Aliot: Edward Goodman
   The Rev. Christopher Pumphrey: Isaac Peiser

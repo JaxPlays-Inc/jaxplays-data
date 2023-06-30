@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Lt. Col. Morrison: Allen Moreland
   Virgie: Barbara Mason

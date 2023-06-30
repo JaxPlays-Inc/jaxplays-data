@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Winifred Enright: Edre Ferguson
   Lady Wilton (Eva): Frances Blackwell

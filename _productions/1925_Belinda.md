@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   John Tremayne: Burton Barrs
   Belinda Tremayne: Elaine I. Minick

@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Tom Gibson: George Weeks
   Janice Gibson: Joseph Gressimer

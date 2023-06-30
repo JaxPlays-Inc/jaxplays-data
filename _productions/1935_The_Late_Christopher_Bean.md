@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mrs. Haggett: Aileen Owen Hunter
   Dr. Haggett: Frank Heintz

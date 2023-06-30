@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mrs. Perkins: Betsy Prior
   Hon. Ernest Wooley: Charles Luckie

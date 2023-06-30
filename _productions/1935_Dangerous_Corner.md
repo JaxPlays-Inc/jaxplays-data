@@ -11,7 +11,7 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
+
 cast:
   Olwen Peel: Dore' Beauchamp-Nobbs
   Freda Chatfield: Madeleine Ingalls

@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mrs. Canby: Anne C. Lalor
   Emily Madison: Birsa Shepard

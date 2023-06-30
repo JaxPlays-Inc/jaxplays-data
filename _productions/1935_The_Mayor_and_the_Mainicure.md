@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Genevieve LeClaire: Birsa Shepard
   Ruth Milford: Carolina de Montigne

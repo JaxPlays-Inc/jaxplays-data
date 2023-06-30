@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mrs. Ritchie: Daisy Bowden Stephens
   William Capron: Douglas Haygood

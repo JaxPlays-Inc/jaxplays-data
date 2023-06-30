@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Charles: William G. Jeacle
   George: Ralph W. Cooper, Jr.

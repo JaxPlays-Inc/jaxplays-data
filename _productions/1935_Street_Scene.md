@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Abraham Kaplan: Jack Berman
   Agnes Cushing: Mildred Perry

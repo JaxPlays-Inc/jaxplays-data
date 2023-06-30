@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Beatrice: Evelyn Horsch
   Bendedick: Oscar Landgren

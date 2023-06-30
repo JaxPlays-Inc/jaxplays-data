@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Frederick Cawley: Edward Goodman
   Krebs: Slocum Ball

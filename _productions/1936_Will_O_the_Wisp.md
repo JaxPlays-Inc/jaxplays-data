@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   The White-Faced Girl: Helen Anders
   The Irish Maid: June Stoy

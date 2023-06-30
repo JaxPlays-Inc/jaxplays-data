@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Phipps: Slocum Ball
   Lady Fanny: Dore' Beauchamp-Nobbs

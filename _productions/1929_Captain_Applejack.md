@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Ambrose Applejohn: E.S. Beauchamp-Nobbs
   Anna Valeska: Marguerite Chiasson

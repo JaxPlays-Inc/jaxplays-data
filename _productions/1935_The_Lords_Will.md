@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Negro Spirituals: Douglas Green
   Lem Adams: Joseph Marron

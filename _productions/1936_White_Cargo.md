@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   The Missionary: Basil Dewitt
   Tondeloyo: Censa Feather

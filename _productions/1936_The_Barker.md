@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   A Hick: Frank W. Gilliette
   Carrie: Dorothy Harlan

@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Braddish Trent: Stuart Cavanagh
   Doolan: Martin S. Fabian

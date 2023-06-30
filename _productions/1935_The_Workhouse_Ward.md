@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Mike McInerney: Eugene LeaMond
   Mrs. Nora Donohoe: Lindsey Gilfillan

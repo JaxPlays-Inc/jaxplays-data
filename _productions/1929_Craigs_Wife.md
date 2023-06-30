@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Assistant Director: Gertrude F. Jacobi
   Birkmire: Fred Mullikin

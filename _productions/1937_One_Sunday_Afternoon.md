@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Snappy's Girl: Betty Hulett
   Mrs. Schutzendorf: Betty Jane Leamond

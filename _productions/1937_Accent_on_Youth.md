@@ -11,7 +11,6 @@ playbill:
 category: 
 details:
   Theatre: Theatre Jacksonville
-  Venue: Little Theatre
 cast:
   Chuck: Ellis Crenshaw, Jr.
   Steven Gaye: Frank Heintz
