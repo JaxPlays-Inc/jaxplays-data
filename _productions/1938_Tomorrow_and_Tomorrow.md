@@ -1,5 +1,5 @@
 ---
-title: To-Morrow and To-Morrow
+title: Tomorrow and Tomorrow
 year: 1938
 opening_date: 1938-02-15
 closing_date: 1938-02-17
@@ -12,6 +12,7 @@ category:
 details:
   Theatre: Theatre Jacksonville
   Venue: Little Theatre
+  Playwright: Philip Barry
 cast:
   Christian Redman: Larry Lovett
   Ella: Susan McRae

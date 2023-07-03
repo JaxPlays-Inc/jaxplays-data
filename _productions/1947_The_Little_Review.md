@@ -15,9 +15,9 @@ details:
 cast:
   Black Magic: Joe Donner
   Chanteuse: Nellie Debs
+  Danseuse: Maudie LeBrun
   Elle: Alma Jones
   Fashionette a la Mode: Ken Bell
-  In Memoriam: Maurice Blitch
   Les Demoiselle des ensembles:
     - Bunky Hill
     - Anne Monroe
@@ -45,10 +45,10 @@ cast:
   The Desert Song:
     - Charlotte Pearce
     - Walter Baldwin, Jr.
+  In Memoriam: Maurice Blitch
 crew:
   Assistant Stage Director: June Milstrey
   Choreography: Maudie LeBrun
-  Danseuse: Maudie LeBrun
   Light Design: Helen Kriebs
   Lighting controls:
     - Mary Garcia
