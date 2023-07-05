@@ -2,7 +2,7 @@
 title: Burn This
 year: 2023
 opening_date: 2023-06-16
-closing_date: 2023-07-02
+closing_date: 2023-06-25
 layout: productions
 image: 2023_Burn_This.jpeg
 image_caption: Josh Andrews, graphic design Jon Scherf
