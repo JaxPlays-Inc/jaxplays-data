@@ -1,5 +1,7 @@
 ---
 title: Godspell
+redirect_from:
+  - /productions/2005_Godspell
 year: 2005
 layout: productions
 image:

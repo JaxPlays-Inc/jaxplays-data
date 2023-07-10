@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/2010_Parade_(musical)
 title: Parade
 year: 2010
 image:

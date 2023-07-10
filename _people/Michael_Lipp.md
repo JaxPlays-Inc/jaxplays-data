@@ -2,6 +2,9 @@
 title: Michael Lipp
 redirect_from:
   - /wiki/Michael_Lipp
+  - /Michael_Lipp
+  - /people/Michael_Lipp
+  - /index.php?title=Michael_Lipp&oldid=2885
 layout: people
 image: Michael_Lipp.jpg
 image_credit: 

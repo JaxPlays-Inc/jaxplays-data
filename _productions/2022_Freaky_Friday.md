@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: Freaky Friday
+redirect_from:
+  - /productions/2022_Freaky_Friday
 year: 2022
 opening_date: 2022-06-03
 closing_date: 2022-06-19

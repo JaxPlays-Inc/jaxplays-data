@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from: 
+  - /productions/1987_Once_Upon_a_Mattress
 title: Once Upon a Mattress
 year: 1987
 image:

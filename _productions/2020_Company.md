@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: Company
+redirect_from:
+  - /productions/2020_Company
 year: 2020
 opening_date: 2020-02-07
 closing_date: 2020-02-23

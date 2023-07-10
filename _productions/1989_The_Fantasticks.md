@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/1989_The_Fantasticks
 title: The Fantasticks
 year: 1989
 image:

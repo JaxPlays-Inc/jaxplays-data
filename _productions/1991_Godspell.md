@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/1991_Godspell
 title: Godspell
 year: 1991
 image:

@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/2015_The_Whale
 title: The Whale
 year: 2015
 opening_date: 2015-11-13

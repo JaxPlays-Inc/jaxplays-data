@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/1990_The_Subject_Was_Roses
 title: The Subject Was Roses
 year: 1990
 image:

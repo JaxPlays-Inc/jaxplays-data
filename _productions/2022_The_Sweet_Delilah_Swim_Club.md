@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: The Sweet Delilah Swim Club
+redirect_from:
+  - /productions/2022_The_Sweet_Delilah_Swim_Club
 year: 2022
 opening_date: 2022-04-22
 closing_date: 2022-05-08

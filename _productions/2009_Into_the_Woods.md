@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/2009_Into_the_Woods
 title: Into the Woods
 year: 2009
 image: 

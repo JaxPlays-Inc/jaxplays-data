@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: Two Trains Running
+redirect_from:
+  - /productions/2020_Two_Trains_Running
 year: 2020
 opening_date: 2020-03-13
 closing_date: 2020-03-29

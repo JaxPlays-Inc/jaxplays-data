@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: Love Quest
+redirect_from:
+  - /productions/2020_Love_Quest
 year: 2020
 opening_date: 2020-02-21
 closing_date: 2020-03-08

@@ -1,5 +1,7 @@
 ---
 layout: productions
+redirect_from:
+  - /productions/2019_Falsettos_(musical)
 title: Falsettos
 year: 2019
 opening_date: 2019-06-14

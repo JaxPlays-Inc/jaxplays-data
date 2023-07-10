@@ -1,6 +1,8 @@
 ---
 layout: productions
 title: Shadowlands
+redirect_from:
+  - /productions/2020_Shadowlands
 year: 2020
 opening_date: 2020-01-10
 closing_date: 2020-01-26
