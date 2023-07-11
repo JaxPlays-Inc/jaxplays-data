@@ -29,13 +29,14 @@ cast:
     - Zachary Pickett
 crew:
   Director: Daniel Austin
-  Choreographer/Costume Designer: Curtis J. Williams
+  Choreographer: Curtis J. Williams
   Assistant Choreographer: Theresa Pazanowski
   Music Director: Erin Balazs Barnes
   Set Design: Ben Girvin & Triple O Productions
   Lighting Design: Johnny Pettegrew
   Stage Manager: Matt King
   Assistant Stage Manager: Gillian Rodriguez
+  Costume Designer: Curtis J. Williams
   Lighting Board Operator: Mark Rubens
   Dresser: Catherine Warren
 ---

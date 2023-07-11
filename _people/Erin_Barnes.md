@@ -1,5 +1,9 @@
 ---
 title: Erin Barnes
+other_names: 
+  - Erin Balazs Barnes
+redirect_from:
+  - /Erin_Balazs_Barnes/
 layout: people
 image: Erin_Barnes.jpeg
 image_credit: 
