@@ -16,10 +16,6 @@ details:
   Title: Ragtime (musical) - wiki
   Theatre: Theatre Jacksonville
   Venue: Little Theatre
-  Music: Stephen Flaherty - wiki
-  Lyrics: Lynn Ahrens - wiki
-  Book: Terrence McNally - wiki
-  Basis: Ragtime by E.L. Doctorow
   Website: https://www.theatrejax.com/season102
 showtimes: 
   - 2022-06-10 19:30:00
