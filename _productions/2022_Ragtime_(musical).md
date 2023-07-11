@@ -29,37 +29,41 @@ showtimes:
   - 2022-06-25 19:30:00
   - 2022-06-26 14:00:00
 cast:
-    Actors: 
-      - Reed Krueger
-      - Jennifer Hudson
-      - Blake Michael Osner
-      - Jeremy Ferri
-      - Mark Rubens
-      - Erik DeCicco
-      - Teagan Carpenter
-      - Philip Williams
-      - Taylor Mobley
-      - Hecate Smith
-      - Laura Mauldin
-      - Julie Harrington
-      - Zachary Pickett
-      - Leanne Gullo
-      - Ryan Feeney
-      - James Wright
-      - Chris Turner
-      - Evan Bowen
-      - Mike Skaff
-      - Phedre J. Delinois
-      - Julia Blasi
-      - Adele Vespa
-      - Aly Blakewell
-      - Melody Choate
-      - Colin Davis
-      - Kat DeCicco
-      - Natalie Ealum
-      - Noah Hall
-      - Ayanna Le Andre
-      - Aaron Fantacone
+  Mother: Jennifer Hudson
+  Edgar: Reed Krueger
+  Father: Blake Michael Osner
+  Brother: Jeremy Ferri
+  Grandfather: Mark Rubens
+  Coalhouse: Phillip Williams
+  Sarah: Taylor Mobley
+  Sarah’s Friend: Hecate Smith
+  Booker T.: James Wright
+  Tateh: Erik DeCicco
+  Little Girl: Teagan Carpenter
+  Willie Conklin: Laura Mauldin
+  Emma Goldman: Leanne Gullo
+  Harry Houdini: Zachary Pickett
+  Henry Ford/Charles S. Whitman: Mike Skaff
+  Henry Ford: Julie Harrington
+  Harry K. Thaw: Evan Bowen
+  Stanford White/Admiral Peary: Chris Turner
+  J.P. Morgan: Ryan Feeney
+  Henson: Phedre J. Delinois
+  Ensemble:
+    - Melody Choate
+    - Kat DeCicco
+    - Natalie Ealum
+    - Noah Hall
+    - Ayana LeAndre
+    - Dalaiah Simeon
+    - Phedre J. Delinois
+    - Julia Blasi
+    - Evan Bowen
+    - Adele Vespa
+    - Aly Blakewell
+    - Colin Davis
+    - Ayanna Le Andre
+    - Aaron Fantacone
 crew:
   Director: Curtis J. Williams
   Choreographer: Curtis J. Williams
