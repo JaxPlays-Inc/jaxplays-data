@@ -1,6 +1,7 @@
 ---
 layout: productions
 title: Ragtime
+cancelled: COVID-19
 redirect_from:
   - /productions/2022_Ragtime_(musical)
 year: 2022
@@ -68,8 +69,13 @@ crew:
   Choreographer: Curtis J. Williams
   Music Director: Aaron DeCicco
 external_links:
-  theatre-jacksonville: https://www.theatrejax.com/season102
 ---
-"Ragtime" is a powerful and sweeping musical based on the novel of the same name by E.L. Doctorow, with a book by Terrence McNally. Set in the early 20th century, the story weaves together the lives of three distinct groups of characters: an upper-class white family, an African American couple, and a Jewish immigrant father and his daughter. Against the backdrop of historical events and social upheaval, including racial tensions and the struggle for women's rights, their lives become intertwined as they navigate the rapidly changing American landscape.
+This much-anticipated production of "Ragtime" at Theatre Jacksonville was unfortunately cancelled due to a rapid outbreak of COVID-19 among the cast and crew. Despite implementing rigorous safety measures, the virus infiltrated this tight-knit theatre community, making it impossible for the large cast to gather safely for rehearsals.
 
-Through its vibrant and diverse score, incorporating ragtime music, the musical captures the spirit and essence of the era. With themes of love, hope, injustice, and the pursuit of the American Dream, "Ragtime" explores the complexities of identity and the resilience of the human spirit.
+In the midst of this health crisis, the "Ragtime" production faced a persistent hurdle — a perpetually resetting countdown for quarantine periods. With every positive test result, each affected cast and crew member would start a new five-day quarantine period. This continual cycle proved to be a formidable challenge for the entire production.
+
+The director, Curtis J. Williams, found himself in a continuous state of adaptation and quick decision-making, trying to keep the production afloat. His days were filled with efforts to find suitable stand-ins for roles constantly becoming vacant due to the fluctuating availability of his original cast members.
+
+This became a Sisyphean task, as no sooner would a replacement be found, another member would test positive, starting the cycle all over again. As time passed, it became increasingly clear that going forward with the show was an uphill battle. In consultation with the theatre management, the painful decision to cancel the show was made.
+
+The cancellation was a significant disappointment for everyone involved, from the performers to the dedicated audience members.
