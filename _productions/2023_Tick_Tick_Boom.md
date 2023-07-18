@@ -30,6 +30,13 @@ cast:
 crew:
   Director: Will Davis
   Music Director: Anthony Felton
+  Stage Manager: Christine Phillips
+  Production Manager: Sam Hannigan 
+  Costume Designer: Sam Hannigan
+  Scenic Designer: Bradley Akers
+  Lighting Designer: Gabe Barnert
+  Sound Designer: Gabe Barnert
+  Props Designer: Katie Cress
 orchestra:
 external_links:
 ---
