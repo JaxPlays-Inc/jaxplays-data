@@ -1,7 +1,7 @@
 ---
-title: Josh Andrews
+title: 	Jeff Drushal
 layout: people
-image: Josh_Andrews.webp 
+image: Jeff_Drushal.webp
 image_credit: Josh Andrews
 image_alt: 
 image_caption: 
@@ -14,4 +14,5 @@ details:
   IBDB: 
   IMDb: 
 external_links:
+Equity: true
 ---

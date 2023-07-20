@@ -1,7 +1,7 @@
 ---
-title: Josh Andrews
+title: Kate McManus
 layout: people
-image: Josh_Andrews.webp 
+image: Kate_McManus.webp
 image_credit: Josh Andrews
 image_alt: 
 image_caption: 

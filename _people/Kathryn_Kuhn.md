@@ -1,7 +1,7 @@
 ---
-title: Josh Andrews
+title: Kathryn Kuhn
 layout: people
-image: Josh_Andrews.webp 
+image: Kathryn_Kuhn.webp
 image_credit: Josh Andrews
 image_alt: 
 image_caption: 
