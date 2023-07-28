@@ -44,4 +44,4 @@ Kate McManus as Estelle presents an intriguing performance, marked by an elegant
 
 Adapted and directed by Brian Niece, *No Exit* takes you on a twisted journey through a philosophical hellscape. Stellar performances by the ensemble make for a performance you won’t easily forget. An absolute must-see.
 
-*No Exit* runs from Friday, July 28, 2023 until Sunday, August 12, 2023 Jacksonville University's [Swisher Theater](/venues/swisher-theater/). For more photos, the complete cast list and crew list and the link to buy tickets, visit the [*No Exit* page on JaxPlays](/productions/2023-no-exit/).
+*No Exit* runs from Friday, July 28, 2023 until Sunday, August 12, 2023 Jacksonville University's [Swisher Theater](/venues/swisher-theater/). For more photos, the complete cast and crew list and the link to buy tickets, visit the [*No Exit* page on JaxPlays](/productions/2023-no-exit/).
