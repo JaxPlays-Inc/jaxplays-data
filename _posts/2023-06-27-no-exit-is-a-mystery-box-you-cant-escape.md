@@ -1,5 +1,7 @@
 ---
 title: "'No Exit' - A Mystery Box You Can't Escape"
+redirect_from: 
+  - /news/2023/06/28/No-Exit-A-Mystery-Box-You-Cant-Escape/
 layout: posts
 date: 2023-06-27T23:45:00-04:00
 published: true
