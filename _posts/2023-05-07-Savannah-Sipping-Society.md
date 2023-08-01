@@ -1,5 +1,5 @@
 ---
-title: "The Savannah Sipping Society: A Toast to Sisterhood and Laughter at St. Marys Little Theatre"
+title: "'The Savannah Sipping Society': A Toast to Sisterhood and Laughter at St. Marys Little Theatre"
 layout: posts
 date: 2023-05-07T22:12:34-04:00
 published: true
