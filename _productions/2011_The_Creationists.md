@@ -10,6 +10,7 @@ image:
 category:
 details:
   Theatre: Players by the Sea
+  Venue: Grace Darling Studio Theatre
   Title: The Creationists
   Playwright: Joshua Kreis McTiernan
   Setting: Here and Now, Now and Then
