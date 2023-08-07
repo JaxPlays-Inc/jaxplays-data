@@ -12,39 +12,57 @@ category: musicals
 details:
   Theatre: The Alhambra Theatre & Dining
   Venue: Alhambra Theatre
-  Website: https://sales.alhambrajax.com/100/tickets.shows.html?playID=1428&code=WWW
+  Website: https://sales.alhambrajax.com/100/tickets.shows.html?playID=1428&code=jaxplays
 cast:
-  Teveye: 
-  Golde: 
-  Yente: 
-  Lazar Wolf:
-  Tzeitel:
-  Hodel:
-  Motel:
-  Perchik:
-  Chava:
-  Fyedka:
-  Shrpintze:
-  Bielke:
-  The Constable:
-  Mordcha: 
-  The Rabbi:
-  Mendel:
-  Grandam Tzeitel:
-  Avram:
-  Fruma-Sarah / Shandel:
-  The Fiddler / Sasha:
-  Yussel:
-  Boris:
-  Priest:
-  Child Villagers:
-  Adult Villagers:
-  Russian Soldiers:
-  Ensemble:
+  Teveye: Tod Booth
+  Golde: Lisa Valdini Booth
+  Yente: Patti Eyler
+  Lazar Wolf: Allan Baker
+  Tzeitel: Sarah Warshavsky
+  Hodel: Natalie Drake
+  Motel: Bear Manescalhi
+  Perchik: Alexander Blanco
+  Chava: Sofia Smith
+  Fyedka: Melvin Edward Nash II
+  Sprintze (Grandmother Tzeitel): Tatum Matthews
+  Bielke: Emma Decker
+  The Constable: Thaddeus Walker
+  The Rabbi\Fyedka: Ryan Lemmon
+  Avram: Michael Mossucco
+  Mendel: Christopher Michael Milligan
+  Mordcha: Rodney Holmes
+  Fruma-Sarah / Shandel: Alexia Adcock-Stanford
+  The Fiddler: Idan Bar
+  Sasha: Zachary Pickett
 crew:
+  Executive Producer: Tod Booth
+  Vice President of Production: Shain Stroff
   Director: Jessie Booth
   Choreographer: Shain Stroff
   Musical Director: Cathy Giddens Murphy
+  Technical Director: David Dionne
+  Production Manager: Erick Ariel Sureda
+  Co-choreographer: Erick Ariel Sureda
+  Dance Captain: Idan Bar
+  Company Manager: Lisa Valdini Booth
+  Lighting Designer: Johnny Pettegrew
+  Lighting Tech Assistant: Chad Conley
+  Costume Designer:
+    - Camala Pitts
+    - Dorina Quailes
+  Wardrobe Supervisor: Layla Thurman
+  Head Seamstress: Allie Kangas
+  Set Designer:
+    - David Dionne
+    - Ian Black
+  Sound Designer: Eric Sullivan
+  Sound Engineer: Briana Donawa
+  Property Master: Patti Eyler
+  Wig Design: Patty Pitts
+  Assistant Stage Manager:
+    - Melvin Nash
+    - Sarah Brace
+  Stage Crew: Kolby James
 orchestra:
 external_links:
 ---
