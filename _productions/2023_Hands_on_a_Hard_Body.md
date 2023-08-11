@@ -15,6 +15,8 @@ details:
   Book: Doug Wright
   Lyrics: Amanda Green
   Music: Trey Anastasio and Amanda Green
+  Website: https://www.limelight-theatre.org/shows/hands-on-a-hardbody
+  Tickets: https://ci.ovationtix.com/34666?_gl=1*18d70jm*_ga*NDM1NTI4MTIwLjE2ODk5NjU0NjQ.*_ga_1T723BH96L*MTY5MTcyNTk1Ny4yLjEuMTY5MTcyNTk3MC40Ny4wLjA.
 showtimes:
   - 2023-08-10 19:30:00
   - 2023-08-11 19:30:00
