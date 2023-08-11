@@ -52,12 +52,18 @@ cast:
 crew:
   Director: Lee Hamby
   Assistant Director: Cathy O'Brien
-  Technical Director: Tyler Hammond
-  Musical Director: Ben Beck
+  Music Director: Ben Beck
   Stage Manager: Sophie Willis
-  Choreographer: Jocelyn Geronimo
-  Costumes: Catherine Dooley
+  Costumes: Cathy Dooley
   Lighting: Carl Liberatore
+  Sound Design: Bradley Cooper
+  Sound Board: Franchesca Bellavista
+  Technical Director/Set Design: Tyler Hammond
+  Assistant Stage Manager: Evan Hayes
+  Choreographer: Jocelyn Geronimo
+  Light Board Operator: Ashley Taylor
+  Shop Foreman: Dom Grasso
+  Scenic Artist: Nancy Grasso
 orchestra:
 external_links:
 ---
