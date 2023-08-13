@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 The musical’s rock ballad-driven score amplifies the tension and brings to life the underlying emotions of the characters. Through powerful lyrics and emotive performances, the audience is transported into the heart of New York City's gritty nightlife, where love is a gamble and no one escapes unscathed.
 
-Conceived by Julia Jordan and Jonathan Larson, the creative genius responsible for iconic shows like *Rent* and *Tick, Tick... Boom!*, *Murder Ballad* carries Larson's signature touch. With the book written by Julia Jordan and the music penned by Juliana Nash, their collaboration crafts a theatrical experience that resonates with audiences and leaves them on the edge of their seats. The seamless fusion of contemporary themes and timeless emotions, enhanced by Jordan's compelling storytelling and Nash's evocative musical score, forms an unforgettable saga.
+Conceived and written by Julia Jordan, who also wrote the book, and with music penned by Juliana Nash, *Murder Ballad* crafts a theatrical experience that resonates with audiences and leaves them on the edge of their seats. The seamless fusion of contemporary themes and timeless emotions, enhanced by Jordan's compelling storytelling and Nash's evocative musical score, forms an unforgettable saga.
 
 The set design adeptly portrays two strikingly different settings simultaneously in the compact, yet pleasant, space of the [Grace Darling Studio Theatre](/venues/grace-darling-studio-theatre). Tom's bar, King's Club, begins on the house left, with a full wall of liquor bottles and glassware and a row of barstools. A handsome pool table sits prominently in the middle of the stage. As the eye travels across the stange, several empty frames hang on back wall above the band giving it a very late 90s/early 00s vibe. When we get to the house right, a comfortable looking couch and a small table completes the scene. 
 
@@ -38,3 +38,5 @@ Overall, *Murder Ballad* leaves a strong impression with its gripping storytelli
 [*Murder Ballad*](/productions/2023-murder-ballad/) runs August 11 through August 27 in the [Grace Darling Studio Theatre](/venues/grace-darling-studio-theatre) at [Players by the Sea](/theatres/players-by-the-sea).
 
 For more information, full cast and crew credits, and links to tickets, visit the [*Murder Ballad*](/productions/2023-murder-ballad/) page here on JaxPlays. 
+
+**Correction:** A previous version of this article erroneously stated that Jonathan Larson was involved in the conception of Murder Ballad. Julia Jordan, who created Murder Ballad, is a Jonathan Larson Award winner. The article has been updated to reflect the correct information. We regret the error.
