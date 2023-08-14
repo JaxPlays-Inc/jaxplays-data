@@ -12,6 +12,7 @@ category:
 details:
   Theatre: Amelia Community Theatre
   Venue: ACT Main Stage
+  Tickets: https://app.arts-people.com/index.php?ticketing=act11
 showtimes:
   - 2023-08-11 20:00:00
   - 2023-08-12 20:00:00
