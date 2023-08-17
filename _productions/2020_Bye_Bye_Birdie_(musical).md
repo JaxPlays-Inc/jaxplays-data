@@ -18,16 +18,27 @@ details:
   Basis: N/A
   Website: https://www.christepiscopalchurch.org/event/bye-bye-birdie/
 showtimes: 
-  - 2020-02-27 19:00:00
-  - 2020-02-28 19:00:00
-  - 2020-02-29 15:00:00
-  - 2020-02-29 19:00:00
-  - 2020-03-05 19:00:00
-  - 2020-03-06 19:00:00
-  - 2020-03-07 15:00:00
-  - 2020-03-07 19:00:00
+- 2020-02-27 19:00:00
+- 2020-02-28 19:00:00
+- 2020-02-29 15:00:00
+- 2020-02-29 19:00:00
+- 2020-03-05 19:00:00
+- 2020-03-06 19:00:00
+- 2020-03-07 15:00:00
+- 2020-03-07 19:00:00
 cast:
-  TBA
+- Harvey Johnson: Nick Nasta
+- Ursula Merkle: Caragh Zeigler
+- Randolph MacAfee: Casey Carroll
+- Kim MacAfee: Josie Frein
+- Gloria Rasputin: Kacey Roache
+- Rosie Alvarez: Sophia Rose Loveday
+- Mr. MacAfee: Michael Itkoff
+- Mrs. MacAfee: Karyn Carroll
+- Hugo Peabody: Jake Nuttall
+- Conrad Birdie: Bradley Fisher
+- Mae Peterson: Darellee Naccarato
+- Albert Peterson: Joe Kemper
 crew:
   Director: Lee Hamby
   Musical Director: Tim Root
