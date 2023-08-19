@@ -3,7 +3,7 @@ title: "The 5 & Dime's 'Tick, Tick... Boom!' – An Intimate Masterpiece Capturi
 published: true
 categories: Reviews
 date: 2023-08-19T13:38:13.736Z
-image: /media/photos/2023_Tick_Tick_Boom_00.jpeg
+image: 2023_Tick_Tick_Boom_00.jpeg
 image_credit: Mike Kitaif
 image_caption: Bradley Akers as Jon in The Five & Dime's 'Tick, Tick... Boom!'
 image_alt: Bradley Akers as Jon in The Five & Dime's 'Tick, Tick... Boom!' looking to the right of the camera with a pensive expression.
