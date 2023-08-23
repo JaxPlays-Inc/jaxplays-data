@@ -4,9 +4,9 @@ year: 2023
 opening_date: 2023-10-13
 closing_date: 2023-10-22
 layout: productions
-image:
-image_caption:
-image_credit:
+image: 2023-Jekyll-Hyde-The-Musical.webp
+image_caption: "Poster for Jekyll & Hyde: The Musical by St. Marys Little Theatre"
+image_credit: "St. Marys Little Theatre"
 playbill: 
 category: 
 details:
